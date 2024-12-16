@@ -1,0 +1,15 @@
+SOAR Engineer 🛡️
+April 2021 - January 2024
+
+
+As a SOAR Engineer, I was deeply involved in enhancing our security operations by designing and implementing comprehensive playbooks for incident investigations. My efforts focused on decreasing the time spent on manual tasks by the security operations team through the efficient standardization of procedures 📑. This initiative significantly reduced operational overhead and increased the team's ability to respond to incidents rapidly.
+
+I developed Python-based API integrations 🐍 that facilitated enhanced communication between various security platforms. This development was crucial in improving incident response times ⏱️ and streamlining the flow of data across systems 🔄, which was instrumental in our strategy to boost overall security posture.
+
+In addition, I created automated Python scripts within the Cortex XSOAR platform. These scripts streamlined communications concerning incident statuses, which notably improved our adherence to service level agreements (SLAs) 📊. This automation also played a pivotal role in enhancing reporting efficiency by cutting down several hours of manual input each month ⌛.
+
+I was responsible for integrating Cortex XSOAR with platforms such as Endpoint Detection and Response (EDR), Network Detection and Response (NDR), and Security Information and Event Management (SIEM) systems 🔗. This integration enabled real-time threat detection, automated responses to security incidents, and improved workflow efficiency across our security infrastructure.
+
+I led the efforts to onboard new users into an advanced multi-tenant infrastructure seamlessly 🌐. My role included implementing critical adjustments that ensured enhanced functionality and zero interruptions or downtime during migration periods, which were consistently completed within a week 🚀.
+
+Lastly, I trained five newly onboarded employees on the efficient creation of security automation workflows 📝. This training emphasized adhering to recognized guidelines and addressed common pitfalls encountered in previous deployments, drawing from extensive observations and past experiences to enhance learning and application.
